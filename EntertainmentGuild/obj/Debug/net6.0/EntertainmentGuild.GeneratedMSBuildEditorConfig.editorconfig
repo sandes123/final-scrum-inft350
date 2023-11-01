@@ -1,0 +1,213 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EntertainmentGuild
+build_property.RootNamespace = EntertainmentGuild
+build_property.ProjectDir = C:\Users\skhan\Desktop\send entertainment\EntertainmentGuild\EntertainmentGuild\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\skhan\Desktop\send entertainment\EntertainmentGuild\EntertainmentGuild
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Admin/OrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Admin/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre_NEW/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZV9ORVdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre_NEW/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZV9ORVdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Book_genre_NEW/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va19nZW5yZV9ORVdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Game_genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZV9nZW5yZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Game_genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZV9nZW5yZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Game_genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZV9nZW5yZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/AddCardInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDYXJkSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja091dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/OrderTracking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlclRyYWNraW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/UserDashborad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRGFzaGJvcmFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/UserForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Home/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Movie_genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVfZ2VucmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Movie_genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVfZ2VucmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Movie_genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVfZ2VucmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Sources/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291cmNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Sources/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291cmNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Sources/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU291cmNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Stocktakes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2t0YWtlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Stocktakes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2t0YWtlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Stocktakes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2t0YWtlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nf3wlh6djf
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-awcnogl07k
+
+[C:/Users/skhan/Desktop/send entertainment/EntertainmentGuild/EntertainmentGuild/Views/Shared/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-mf49waqvza
